@@ -13,3 +13,7 @@ Avec la participation intrusive de N3phaste
 	* Gestion des joueurs
 
 	* Gestion des hameaux
+	
+**Pour le FrondEnd** :
+
+	* Material design
